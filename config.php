@@ -1,5 +1,5 @@
 <?php
-$username = "setorantimothy";
-$token = "youraccesstoken";
+$username = "abdirivaldoo";
+$token = "abdirivaldoo";
 
 ?>
